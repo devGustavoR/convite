@@ -1,7 +1,5 @@
 /* Fontes */
-@import url('http://fonts.cdnfonts.com/css/lovelo?styles=25962');
-@import url('http://fonts.cdnfonts.com/css/knewave?styles=20046');
-@import url('http://fonts.cdnfonts.com/css/bukhari-script');
+@import url(./fonts.css);
                 
 
 body, html{
@@ -63,7 +61,7 @@ body, html{
   .text-2 p{
     font-size: 24px;
     color: #9A4C95;
-    font-family: 'Knewave', sans-serif;
+    font-family: 'Knewave';
     justify-content: center;
     display: flex;  
   }
@@ -95,7 +93,7 @@ body, html{
   .text-4 p{
     font-size: 24px;
     color: #9A4C95;
-    font-family: 'Bukhari Script', sans-serif;
+    font-family: 'Bukhari';
     justify-content: center;
     display: flex;
   }
